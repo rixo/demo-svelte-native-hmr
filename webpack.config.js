@@ -23,8 +23,8 @@ const hotOptions = {
   // Default is to try its best to not animate and replace in place as
   // fast as possible. Unfortunately, we're not there yet...
   //
-  // So, meanwhile, treat yourself a great candy eye to know when your
-  // HMR has been applied!
+  // So, meanwhile, treat yourself an eye candy to know when your HMR has
+  // been applied!
   //
   // Examples:
   //
@@ -39,12 +39,12 @@ const hotOptions = {
   // See: https://docs.nativescript.org/ui/ns-ui-widgets/frame
   //
   transition: false,
-  
+
   // Display compile errors in client app. This saves a full app relaunch,
   // but it might corrupt app state more often.
-  // 
+  //
   // TODO not supported on native
-  // 
+  //
   optimistic: false,
 };
 
