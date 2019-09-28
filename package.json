@@ -14,17 +14,18 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "nativescript-theme-core": "~1.0.4",
-    "svelte-native": "^0.3.3",
+    "svelte-native": "^0.4.3",
     "tns-core-modules": "~5.4.0"
   },
   "devDependencies": {
     "@rixo/eslint-config-svelte-native": "^0.6.0",
     "nativescript-dev-typescript": "~0.9.0",
     "nativescript-dev-webpack": "~0.22.0",
-    "svelte": "^3.4.3",
-    "svelte-loader": "github:rixo/svelte-loader#hmr-native",
-    "svelte-native-preprocessor": "^0.1.3",
-    "webpack": "^4.32.2"
+    "svelte": "^3.12.1",
+    "svelte-loader": "rixo/svelte-loader",
+    "svelte-native-preprocessor": "^0.1.4",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.9"
   },
   "gitHead": "c06800e52ee1a184ea2dffd12a6702aaa43be4e3",
   "readme": "NativeScript Application",
